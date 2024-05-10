@@ -1,5 +1,5 @@
-# **Probabilidade e Processos Estocásticos**
-Este repositório foi desenvolvido com o objetivo de atender aos critérios avaliativos da disciplina de Probabilidade e Processos Estocásticos do Programa de Pós-Graduação em Engenharia Elétrica (PPEE) da Universidade Federal de Juiz de Fora (UFJF).
+# **Probability and Stochastic Processes**
+This repository was developed with the aim of meeting the evaluation criteria of the Probability and Stochastic Processes discipline of the Postgraduate Program in Electrical Engineering (PPEE) at the Federal University of Juiz de Fora (UFJF).
 
 
 ## **Principais Comandos Utilizados**
