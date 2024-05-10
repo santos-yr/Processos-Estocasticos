@@ -49,6 +49,55 @@ scipy.stats.cdf() #Calculate the cumulative distribution function.
 ~~~Python
 scipy.stats.pdf() #Calculate the probability density function.
 ~~~
+~~~Python
+scipy.stats.fit() #Return estimates of shape, location, and scale parameters from data. The default estimation method is Maximum Likelihood Estimation (MLE).
+~~~
+~~~Python
+scipy.stats.interval() #Confidence interval with equal areas around the median.
+~~~
+~~~Python
+scipy.stats.ppf() #Percent point function (inverse of cdf).
+~~~
+~~~Python
+scipy.stats.t.ppf() #Returns the inverse cumulative distribution function of the Student's t distribution.
+~~~
+~~~Python
+scipy.stats.zscore() #Compute the z score of each value in the sample, relative to the sample mean and standard deviation.
+~~~
+~~~Python
+scipy.stats.ttest_ind() #Calculate the T-test for the means of two independent samples of scores.
+~~~
+~~~Python
+scipy.stats.jarque_bera() #Perform the Jarque-Bera goodness of fit test on sample data.
+~~~
+~~~Python
+scipy.stats.chisquare() #Calculate a one-way chi-square test.
+~~~
+~~~Python
+scipy.stats.kstest() #Performs the (one-sample or two-sample) Kolmogorov-Smirnov test for goodness of fit.
+~~~
+~~~Python
+scipy.stats.anderson() #Anderson-Darling test for data coming from a particular distribution.
+~~~
+~~~Python
+scipy.stats.multivariate_normal.fit() #Fit Gaussian mixture model to data
+~~~
+~~~Python
+scipy.optimize.minimize() #Minimization of scalar function of one or more variables.
+~~~
+
+
+---
+### **statsmodels**
+*statsmodels is a Python module that provides classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration..*
+
+### commands
+~~~Python
+statsmodels.stats.diagnostic.lilliefors() #Test assumed normal or exponential distribution using Lilliefors’ test.
+~~~
+~~~Python
+statsmodels.graphics.gofplots.qqplot() #Q-Q plot of the quantiles of x versus the quantiles/ppf of a distribution.
+~~~
 
 
 ---
@@ -74,8 +123,9 @@ matplotlib.pyplot.hist() #Compute and plot a histogram.
 matplotlib.pyplot.scatter() #A scatter plot of y vs. x with varying marker size and/or color.
 ~~~
 
+
 ---
-### **Matplotlib**
+### **seaborn**
 *Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.*
 
 ### commands
