@@ -43,6 +43,7 @@ scipy.stats.moment() #Calculate the nth moment about the mean for a sample.
 ~~~Python
 scipy.stats.probplot() #Calculate quantiles for a probability plot, and optionally show the plot.
 ~~~
+<!-- A função scipy.stats.probplot também é capaz de plotar o qqplot-->
 ~~~Python
 scipy.stats.cdf() #Calculate the cumulative distribution function.
 ~~~
