@@ -1,6 +1,7 @@
 # **Probability and Stochastic Processes**
 This repository was developed with the aim of meeting the evaluation criteria of the Probability and Stochastic Processes discipline of the Postgraduate Program in Electrical Engineering (PPEE) at the Federal University of Juiz de Fora (UFJF).
 
+<--! Inserir os seguintes comandos: autocorr, crosscorr, kpsstest, lmctest -->
 
 ## **Principais Comandos Utilizados**
 
